@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog-hugo-35d.pages.dev/'
 languageCode = 'es-mx'
 title = 'Blog Personal'
 theme = "hugo-theme-m10c"
