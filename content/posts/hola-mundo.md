@@ -1,5 +1,6 @@
 ---
 title: "Primera entrada en el blog personal"
+tags : ["hugo", "desarrollo", "tutorial", "docs"]
 date: 2023-11-21T10:31:45-04:00
 draft: false
 ---
@@ -8,7 +9,7 @@ draft: false
 
 Esta página fue generada con Hugo.
 
-![Hugo](../../static/hugo-opt.jpg)
+![Hugo](/hugo-opt.jpg)
 
 Hugo es una popular herramienta de código abierto para crear e implementar aplicaciones web. Es conocido por su velocidad y flexibilidad. Hugo utiliza un motor de plantillas para generar sitios web estáticos, que pueden alojarse en cualquier lugar y se cargan rápidamente.
 
