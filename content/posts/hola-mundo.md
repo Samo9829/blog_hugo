@@ -8,7 +8,7 @@ draft: false
 
 Esta página fue generada con Hugo.
 
-![Hugo](../../resources/_gen/images/hugo-opt.jpg)
+![Hugo](../../static/hugo-opt.jpg)
 
 Hugo es una popular herramienta de código abierto para crear e implementar aplicaciones web. Es conocido por su velocidad y flexibilidad. Hugo utiliza un motor de plantillas para generar sitios web estáticos, que pueden alojarse en cualquier lugar y se cargan rápidamente.
 
