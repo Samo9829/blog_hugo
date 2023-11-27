@@ -1,6 +1,6 @@
 ---
 title: "GitHub y su entorno en linea"
-tags: ["go", "golang", "templates", "themes", "development"]
+tags: ["github", "desarrollo"]
 date: "2023-11-02"
 draft: false
 ---

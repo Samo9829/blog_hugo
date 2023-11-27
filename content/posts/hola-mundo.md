@@ -1,7 +1,7 @@
 ---
 title: "Primera entrada en el blog personal"
 tags : ["hugo", "desarrollo", "tutorial", "docs"]
-date: "2023-9-30"
+date: "2023-09-30"
 draft: false
 ---
 

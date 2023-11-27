@@ -1,6 +1,6 @@
 ---
 title: "El lenguaje GO"
-tags: ["hugo", "jekyll"]
+tags: ["hugo", "GO","lenguajes"]
 date: "2023-11-10"
 draft: false
 ---
